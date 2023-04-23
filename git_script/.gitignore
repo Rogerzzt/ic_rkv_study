@@ -1,0 +1,35 @@
+# temporary files
+\.*
+*.bk
+*.bak
+*.temp
+*.tmp
+*.simv
+novas.conf
+ucli.key
+vc_hdrs.h
+inter.vpd
+novas.rc
+AN.DB
+*.sml
+*.daidir
+*.vdb
+*.transaction_trace
+
+
+# simulation folder
+out/
+work/
+vdCovLog/
+verdiLog/
+emanMergeDir/
+eman_rundir/
+csrc/
+DVEfiles/
+urgReport/
+
+# log files
+*.log
+
+# git ignore rule file
+!.gitignore
